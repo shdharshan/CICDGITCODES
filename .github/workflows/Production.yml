@@ -7,7 +7,7 @@ on:
 
 jobs:
   print-details:
-    runs-on: ubuntu-latest
+    runs-on: Windows-latest
     steps:
       - name: echo-default-env-variables
         run: |
